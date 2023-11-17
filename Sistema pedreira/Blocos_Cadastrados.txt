@@ -1,9 +1,0 @@
-Código: 1
-Número do Bloco: 1
-Medidas (metros cúbicos): 1
-Descrição: 1
-Tipo de Material: 1
-Valor de Compra: 1
-Valor de Venda: 1
-Pedreira: 1
-

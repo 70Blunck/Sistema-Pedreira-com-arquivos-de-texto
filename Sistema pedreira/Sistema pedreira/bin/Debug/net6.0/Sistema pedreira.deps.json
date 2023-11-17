@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Sistema pedreira/1.0.0": {
+        "runtime": {
+          "Sistema pedreira.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sistema pedreira/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
